@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Easily route a .local domain to your computer",
   "main": "index.js",
+  "bin": {
+    "register-multicast-dns": "./bin.js"
+  },
   "dependencies": {
     "multicast-dns": "^3.0.0",
     "network-address": "^1.0.0"
