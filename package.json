@@ -1,6 +1,6 @@
 {
   "name": "register-multicast-dns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily route a .local domain to your computer",
   "main": "index.js",
   "bin": {
