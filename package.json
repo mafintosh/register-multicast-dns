@@ -1,0 +1,26 @@
+{
+  "name": "register-multicast-dns",
+  "version": "0.0.0",
+  "description": "Easily route a .local domain to your computer",
+  "main": "index.js",
+  "dependencies": {
+    "multicast-dns": "^3.0.0",
+    "network-address": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^5.0.0"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/register-multicast-dns.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/register-multicast-dns/issues"
+  },
+  "homepage": "https://github.com/mafintosh/register-multicast-dns"
+}
